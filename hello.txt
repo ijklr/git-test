@@ -1,4 +1,7 @@
 H3llo
 w0rld
+<<<<<<< HEAD
 H3ll0
+=======
+>>>>>>> LAZY_COMMENT
 miyuki
